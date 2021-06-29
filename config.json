@@ -1,10 +1,10 @@
 {
    "DEFAULTS": {
-    "AUTHORS": ["BOTUN SAHİP İD"],
-    "ACTIVITY_TEXT": "Hestia'ya hoşgeldin",
-    "GUILD_ID": "SUNUCU İD",
-    "VOICE_CHANNEL": "GİRECEĞİ SES KANAL İD",
-    "MIN_STAFF_ROLE": "EN DÜŞÜK YETKİLİ ROl"
+    "AUTHORS": ["752942906322583712"],
+    "ACTIVITY_TEXT": "Rewis'e Hoşgeldin",
+    "GUILD_ID": "859048623576055818",
+    "VOICE_CHANNEL": "859197208582029332",
+    "MIN_STAFF_ROLE": "859204281680789554"
   },
   "FILES": {
     "WELCOME": "https://cdn.discordapp.com/attachments/844644872559657000/846101189066358804/welcome.mp3",
