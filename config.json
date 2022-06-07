@@ -1,13 +1,13 @@
 {
    "DEFAULTS": {
-    "AUTHORS": ["752942906322583712"],
-    "ACTIVITY_TEXT": "Rewis'e Hoşgeldin",
-    "GUILD_ID": "859048623576055818",
-    "VOICE_CHANNEL": "859197208582029332",
-    "MIN_STAFF_ROLE": "859204281680789554"
+    "AUTHORS": ["838112128254476349"],
+    "ACTIVITY_TEXT": "S P E A W E R A'e Hoş Geldin!",
+    "GUILD_ID": "915379051219288074",
+    "VOICE_CHANNEL": "973706382371061770",
+    "MIN_STAFF_ROLE": "973705974726656061"
   },
   "FILES": {
-    "WELCOME": "https://cdn.discordapp.com/attachments/844644872559657000/846101189066358804/welcome.mp3",
-    "STAFF": "https://cdn.discordapp.com/attachments/844644872559657000/846101189699305502/staff.mp3"
+    "WELCOME": "https://cdn.discordapp.com/attachments/838113515629707304/983673871599288351/hosgeldinyeni_1.mp3",
+    "STAFF": "https://cdn.discordapp.com/attachments/838113515629707304/983673872010346496/yetkiliyepyeni_1.mp3"
   }
 }
